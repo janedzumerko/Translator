@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="basefrag_bg">#e3e3e3</color>
+    <color name="basefrag_retry_bg">#90003030</color>
+    <color name="basefrag_loading_bg">#B0000000</color>
+
+    <color name="primary1">#ff0099cc</color>
+    <color name="primary_dark1">#ff0099cc</color>
+    <color name="accent1">#DBDBDB</color>
+
+
+</resources>
