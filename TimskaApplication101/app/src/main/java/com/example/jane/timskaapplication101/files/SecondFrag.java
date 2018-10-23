@@ -36,10 +36,10 @@ public class SecondFrag extends MainNavigation.SectionFrag {
     public TextView emptyView;
     public CircularProgressView progresSearch;
 
-    public static String [] spinnerLangauges;
-    public static String momentFileLangauge;
+    public static String [] spinnerLanguages;
+    public static String momentFileLanguage;
     public static int voiceSelectedItem;
-    public static Spinner FileLangauges;
+    public static Spinner FileLanguages;
 
     public DialogInterface.OnClickListener dialogClickListener;
 
